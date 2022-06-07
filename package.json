@@ -1,0 +1,23 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Poyecto con Gulp. SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHelmet96/MusicFestival.git"
+  },
+  "keywords": [
+    "SASS",
+    "HTML"
+  ],
+  "author": "MrHelmet (Alejandro Casco)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHelmet96/MusicFestival/issues"
+  },
+  "homepage": "https://github.com/MrHelmet96/MusicFestival#readme"
+}
