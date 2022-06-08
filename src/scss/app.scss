@@ -1,4 +1,5 @@
-$rojo: black;
+@import 'base/variable';
+@import 'content/content';
 
 body {
     background-color: $rojo;
