@@ -76,7 +76,7 @@ function highlightNavLink() {
         const sections = document.querySelector('section')
         const navLinks = document.querySelector('.navegacion-principal a')
 
-        let actual = ''
+        let actual = '';
 
         sections.forEach(section => {
             const sectionTop = section.offserTop
